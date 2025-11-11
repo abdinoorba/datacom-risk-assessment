@@ -6,7 +6,7 @@
 As a Cybersecurity Analyst in a simulated Datacom engagement, I conducted a comprehensive risk assessment for RetailNova Pty Ltd., a nationwide retailer with 85 locations and a growing e-commerce platform.
 
 **Objective:**  
-Identify, evaluate, and mitigate key organizational risks — including cyber threats, natural disasters, and insider threats — affecting the company’s infrastructure, data, and workforce.
+Identify, evaluate, and mitigate key organizational risks including cyber threats, natural disasters, and insider threats affecting the company’s infrastructure, data, and workforce.
 
 ---
 
@@ -15,7 +15,7 @@ Identify, evaluate, and mitigate key organizational risks — including cyber th
 | Step | Description |
 |------|--------------|
 | 1. Context Definition | Assessed sensitive assets such as customer data, payment systems, intellectual property, and IT infrastructure. |
-| 2. Threat Identification | Evaluated top risks — Cyber Threat, Natural Disaster, and Insider Threat — based on organizational context and recent incident trends. |
+| 2. Threat Identification | Evaluated top risks such as Cyber Threat, Natural Disaster, and Insider Threat based on organizational context and recent incident trends. |
 | 3. Risk Analysis | Determined likelihood × impact levels using an Excel-based Risk Matrix (color-coded). |
 | 4. Mitigation Planning | Proposed additional control measures such as multi-factor authentication, data backup systems, disaster recovery planning, and employee training. |
 | 5. Residual Risk Evaluation | Calculated target risk ratings after controls to measure the improvement in the company’s overall risk posture. |
@@ -41,7 +41,7 @@ The following Google Sheets reports were created from the original Excel file an
 - Identified three primary risk categories: Cyber Threat, Natural Disaster, and Insider Threat.  
 - Used quantitative and qualitative analysis to prioritize risks based on impact and likelihood.  
 - Recommended mitigations that reduced overall organizational risk from Extreme to Medium–High.  
-- Demonstrated practical GRC application — including threat modeling, risk scoring, and control analysis.
+- Demonstrated practical GRC application including threat modeling, risk scoring, and control analysis.
 
 ---
 
@@ -54,7 +54,7 @@ The following Google Sheets reports were created from the original Excel file an
 
 ## Context
 
-Completed as part of the Datacom Cybersecurity Virtual Experience (Forage) — Task 2: Cybersecurity Risk Assessment.  
+Completed as part of the Datacom Cybersecurity Virtual Experience (Forage); Task 2: Cybersecurity Risk Assessment.  
 The RetailNova case study involved assessing business and cybersecurity risks and developing mitigation strategies for operational resilience.
 
 ---
