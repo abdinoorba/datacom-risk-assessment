@@ -26,7 +26,7 @@ Identify, evaluate, and mitigate key organizational risks — including cyber th
 
 The full risk assessment report was developed in Microsoft Excel and published via Google Sheets for portfolio presentation.
 
-[Open in Google Sheets (Interactive View)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8NMadcijmcHhp9O_x-AwFTGgtCKbUE4junMNlqbgVuhwzmTNjX-leKIR6EWAdoQ/pubhtml)
+[Open in Google Sheets (Interactive View)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8NMadcijmcHhp9O_x-AwFTGgtCKbUE4junMNIqbgVuhwzmTNjX-IeKIR6EWAdoQ/pubhtml)
 
 ---
 
