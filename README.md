@@ -16,7 +16,7 @@ Identify, evaluate, and mitigate key organizational risks including cyber threat
 |------|--------------|
 | 1. Context Definition | Assessed sensitive assets such as customer data, payment systems, intellectual property, and IT infrastructure. |
 | 2. Threat Identification | Evaluated top risks such as Cyber Threat, Natural Disaster, and Insider Threat based on organizational context and recent incident trends. |
-| 3. Risk Analysis | Determined likelihood × impact levels using an Excel-based Risk Matrix (color-coded). |
+| 3. Risk Analysis | Determined likelihood × impact levels using an Excel-based Risk Matrix (color-coded), guided by the NIST Cybersecurity Framework. |
 | 4. Mitigation Planning | Proposed additional control measures such as multi-factor authentication, data backup systems, disaster recovery planning, and employee training. |
 | 5. Residual Risk Evaluation | Calculated target risk ratings after controls to measure the improvement in the company’s overall risk posture. |
 
@@ -26,9 +26,9 @@ Identify, evaluate, and mitigate key organizational risks including cyber threat
 
 The full risk assessment report was developed in Microsoft Excel and published via Google Sheets for portfolio presentation.
 
-### Interactive Google Sheets Views
+### Google Sheets Views
 
-The following Google Sheets reports were created from the original Excel file and published online for interactive viewing:
+The following Google Sheets reports were created from the original Excel file and published online for viewing:
 
 - [Risk Assessment Table (Detailed View)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8NMadcijmcHhp9O_x-AwFTGgtCKbUE4junMNIqbgVuhwzmTNjX-IeKIR6EWAdoQ/pubhtml?gid=1351885713&single=true)
 - [Risk Matrix (Visual Overview)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8NMadcijmcHhp9O_x-AwFTGgtCKbUE4junMNIqbgVuhwzmTNjX-IeKIR6EWAdoQ/pubhtml?gid=972615918&single=true)
@@ -47,7 +47,7 @@ The following Google Sheets reports were created from the original Excel file an
 
 ## Tools and Skills
 
-**Tools:** Microsoft Excel (conditional formatting, risk matrix logic), Google Sheets (published version), Datacom Forage Virtual Experience  
+**Tools:** NIST CSF, Microsoft Excel (conditional formatting, risk matrix logic), Google Sheets, Datacom Forage Virtual Experience  
 **Skills:** Cyber Risk Assessment, Threat Modeling, Governance Risk and Compliance (GRC), Mitigation Planning, Business Continuity
 
 ---
